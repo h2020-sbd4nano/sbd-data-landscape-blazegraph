@@ -22,3 +22,5 @@ can be used.
 ## Querying the SPARQL endpoint
 
 In the webinterface you can run SPARQL queries in the "Query" tab. 
+
+From the command line, the URL for the endpoint is: http://localhost:9999/blazegraph/sparql
